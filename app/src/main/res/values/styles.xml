@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextBold">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextBold.Big">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextBold.Huge">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="TextBold.Big.SubTitle">
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+
+    <style name="TextBold.Big.Value">
+        <item name="android:textAlignment">viewEnd</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Circular">
+        <item name="cornerSize">50%</item>
+    </style>
+
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MidtronicsAssignment</string>
+
+    <string name="title_countries_choose">Choose a country</string>
+
+    <string name="title_profile">Profile</string>
+    <string name="title_countries">Countries</string>
+    <string name="title_country">Country</string>
+
+    <string name="title_company">Company:</string>
+    <string name="title_position">Position:</string>
+    <string name="title_work_start_date">Started at:</string>
+    <string name="title_work_end_date">Left on:</string>
+
+    <string name="title_education_place">Place:</string>
+    <string name="title_education">Education:</string>
+    <string name="title_education_start_date">Started at:</string>
+    <string name="title_education_end_date">Graduated at:</string>
+
+    <string name="title_country_capital">Capital:</string>
+    <string name="title_country_population">Population:</string>
+    <string name="title_country_area">Area:</string>
+    <string name="title_country_region">Region:</string>
+    <string name="title_country_subregion">SubRegion:</string>
+
+    <string name="error">Sorry, but something went wrong</string>
+
+</resources>
